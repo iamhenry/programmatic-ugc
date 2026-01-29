@@ -1,0 +1,40 @@
+{
+  "topic": "gut-brain-connection",
+  "cover": {
+    "headline": "What happens to your gut and brain when you quit",
+    "highlightWord": "alcohol",
+    "subtitle": "Why anxiety, mood, and digestion change together in sobriety"
+  },
+  "slides": [
+    {
+      "title": "What alcohol does to the gut and brain",
+      "items": [
+        "Alcohol irritates the gut lining",
+        "Inflammation signals reach the brain",
+        "Result: anxiety, bloating, and low mood feel mental but start in the gut"
+      ]
+    },
+    {
+      "title": "Why early sobriety feels rough",
+      "items": [
+        "Your gut bacteria are rebalancing",
+        "Serotonin production is recovering (90% made in gut)",
+        "Healing takes 2-4 weeks for most people"
+      ]
+    },
+    {
+      "title": "What actually helps",
+      "items": [
+        "Fermented foods support good bacteria",
+        "Fiber feeds your gut microbiome",
+        "Sleep and movement speed recovery"
+      ]
+    }
+  ],
+  "end": {
+    "saveLine": "Save this if you're working on your gut health in sobriety",
+    "shareLine": "Share with someone who needs to hear this",
+    "closer": "Your gut is healing. Trust the process.",
+    "highlightPhrase": "gut health in sobriety"
+  }
+}

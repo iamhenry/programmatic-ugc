@@ -35,15 +35,15 @@ export type EndSlideContent = {
 };
 
 /**
- * Full 5-slide carousel data
+ * Full carousel data (4-6 slides total: 1 cover + 2-4 content + 1 CTA)
  */
 export type CarouselContent = {
   /** Topic identifier for this carousel */
   topic: string;
   /** Slide 1: Cover */
   cover: CoverSlideContent;
-  /** Slides 2-4: Content (exactly 3) */
-  slides: [ContentSlideContent, ContentSlideContent, ContentSlideContent];
-  /** Slide 5: CTA */
+  /** Content slides (2-4 items). Validated at runtime. */
+  slides: ContentSlideContent[];
+  /** Final slide: CTA */
   end: EndSlideContent;
 };
