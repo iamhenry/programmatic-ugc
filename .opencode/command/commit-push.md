@@ -2,7 +2,7 @@
 name: cp
 description: Commits and pushes changes to the repository.
 subtask: false
-model: opencode/grok-code
+model: opencode/kimi-k2.5-free
 ---
 
 1. Run command to see all modified files `git status --porcelain`
