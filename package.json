@@ -1,0 +1,32 @@
+{
+  "name": "programmatic-ugc",
+  "version": "1.0.0",
+  "description": "A comprehensive starting point for software development projects that leverages AI-assisted code generation and structured planning.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion still CoverSlide out/cover.png",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamhenry/programmatic-ugc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamhenry/programmatic-ugc/issues"
+  },
+  "homepage": "https://github.com/iamhenry/programmatic-ugc#readme",
+  "dependencies": {
+    "@remotion/bundler": "^4.0.414",
+    "@remotion/cli": "^4.0.414",
+    "@types/react": "^19.2.10",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.414",
+    "typescript": "^5.9.3"
+  }
+}
