@@ -1,0 +1,41 @@
+{
+  "topic": "gut-brain-connection",
+  "cover": {
+    "headline": "What happens to your gut and brain when you quit",
+    "highlightWord": "alcohol",
+    "subtitle": "Why anxiety, mood, and digestion change together in sobriety"
+  },
+  "slides": [
+    {
+      "title": "What alcohol does to the gut and brain",
+      "items": [
+        "Alcohol irritates the gut lining",
+        "Inflammation signals reach the brain",
+        "Result anxiety bloating and low mood feel mental but start in the gut"
+      ]
+    },
+    {
+      "title": "The first month without alcohol",
+      "items": [
+        "Gut cells repair quickly once alcohol is gone",
+        "Inflammation begins to fall",
+        "Result digestion improves before mood does and that is normal"
+      ]
+    },
+    {
+      "title": "One to three months sober",
+      "items": [
+        "Gut bacteria rebalance",
+        "Serotonin production steadies",
+        "Stress signals from the gut reduce",
+        "Result calmer baseline and clearer thinking"
+      ]
+    }
+  ],
+  "end": {
+    "saveLine": "Save this if you are navigating gut or mood changes after quitting alcohol.",
+    "shareLine": "Share it with someone who is confused by what their body is doing in sobriety.",
+    "closer": "You are repairing more than you realize.",
+    "highlightPhrase": "quitting alcohol"
+  }
+}
