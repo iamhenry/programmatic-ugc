@@ -13,10 +13,19 @@ Style reference for AI-generated Instagram carousel content about sobriety and a
 | **Science-informed** | "Cortisol (your stress hormone) drops" | "Cortisol levels decrease" without context |
 | **Accessible** | "GABA—your brain's natural calm signal" | "GABAergic neurotransmission normalizes" |
 | **Positive framing** | "Your sleep deepens by week 2" | "You won't have terrible sleep forever" |
+| **Progress-oriented** | "By day 7, your liver enzymes begin to normalize" | "Your liver will get better eventually" |
+| **Concrete** | "48 hours", "2 weeks", "30 days" | "over time", "eventually", "soon" |
 
 **POV:** Second person ("you", "your body", "your brain")
 
-**Avoid:** Shame language, absolutes ("always", "never"), unsourced claims, medical advice
+**Avoid:**
+- Shame language
+- Absolutes ("always", "never")
+- Unsourced claims
+- Medical advice
+- Celebration hype ("Amazing!", "Incredible!", "You've got this!")
+- Prescriptive commands ("You should", "You need to")
+- Vague timeframes ("eventually", "over time", "soon")
 
 ---
 
@@ -136,9 +145,10 @@ Topic hook for the CTA slide—captures the carousel theme.
 Examples: "sober sleep", "gut healing", "mental clarity", "real energy"
 
 ### Closer Guidelines
-- Empowering, not preachy
+- Quiet confidence—state facts, don't cheerlead
+- No exclamation marks
 - No commands ("You should...")
-- Acknowledge difficulty while affirming capability
+- Acknowledge the journey without overpromising
 - 30-60 characters
 
 ---
@@ -160,7 +170,44 @@ Examples: "sober sleep", "gut healing", "mental clarity", "real energy"
 
 ---
 
-## 6. Example Topics
+## 6. Timeframe Heuristics
+
+Guidance for research-backed timeline content. Do NOT hardcode specific timeframes—let research inform the numbers.
+
+### Principles
+
+1. **Anchor to specific markers, not ranges**
+   - ✅ "By day 3" / "At 2 weeks" / "Around month 2"
+   - ❌ "Within the first few weeks" / "Over time"
+
+2. **Lead with earliest noticeable change**
+   - Prioritize when users will *feel* something, not clinical endpoints
+   - Example: "Sleep quality dips before it improves" > "Sleep normalizes by month 3"
+
+3. **Use body system as organizing principle**
+   - Group facts by organ/system (liver, gut, brain, skin)
+   - This naturally creates timeline progression
+
+4. **Trust research over assumptions**
+   - If web search returns different timeframes than expected, use research
+   - Flag conflicting sources rather than averaging
+
+5. **Qualify uncertainty when appropriate**
+   - "For most people, by week 2..."
+   - "Research suggests around day 10..."
+   - Avoid false precision on individual variation
+
+### Research Focus Areas
+
+When researching a topic, look for:
+- **Earliest measurable change** (not just "improvement")
+- **Mechanism** (what's actually happening physiologically)
+- **Variability factors** (drinking history, age, etc.)
+- **Subjective vs objective** (when you *feel* it vs when tests show it)
+
+---
+
+## 7. Example Topics
 
 ### Validated Topics
 
@@ -183,7 +230,7 @@ For each topic, identify:
 
 ---
 
-## 7. AI Prompt Integration
+## 8. AI Prompt Integration
 
 When generating content, include these constraints:
 
