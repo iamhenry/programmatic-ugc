@@ -69,26 +69,26 @@ I can cluster these into **30 days of posts**, or rewrite them into **scroll sto
 
 Mental model: health tracking, recovery, habits. Not addiction shock.
 
-1. Early sobriety symptoms explained
-2. What happens to sleep after quitting alcohol
-3. Why anxiety spikes then fades in sobriety
-4. Gut health changes after stopping drinking
-5. Energy levels week by week without alcohol
-6. Mood swings in early sobriety and why they happen
-7. How routines stabilize the nervous system
-8. Cravings as body signals not failure
-9. What a normal sober day starts to feel like
-10. Tracking progress without counting drinks
-11. Why boredom is common and temporary
-12. Stress response resetting after alcohol
-13. Small wins that compound in sobriety
-14. Why relapse urges come in waves
-15. Building streaks without pressure
-16. How sleep quality improves over months
-17. Hormone balance after quitting alcohol
-18. Emotional regulation returning over time
-19. What healing feels like when it is quiet
-20. Using data to reduce self blame
+- [ ] Early sobriety symptoms explained
+- [x] What happens to sleep after quitting alcohol
+- [ ] Why anxiety spikes then fades in sobriety
+- [ ] Gut health changes after stopping drinking
+- [ ] Energy levels week by week without alcohol
+- [ ] Mood swings in early sobriety and why they happen
+- [ ] How routines stabilize the nervous system
+- [ ] Cravings as body signals not failure
+- [ ] What a normal sober day starts to feel like
+- [ ] Tracking progress without counting drinks
+- [ ] Why boredom is common and temporary
+- [ ] Stress response resetting after alcohol
+- [ ] Small wins that compound in sobriety
+- [ ] Why relapse urges come in waves
+- [ ] Building streaks without pressure
+- [ ] How sleep quality improves over months
+- [ ] Hormone balance after quitting alcohol
+- [ ] Emotional regulation returning over time
+- [ ] What healing feels like when it is quiet
+- [ ] Using data to reduce self blame
 
 **What to avoid for iOS**
 No glamorizing drinking
