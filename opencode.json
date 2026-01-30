@@ -4,7 +4,8 @@
   "small_model": "opencode/gpt-5-nano", // used for session title generations
   "formatter": false,
   "instructions": [
-    "CLAUDE.md"
+    "CLAUDE.md",
+    "_ai/docs/ETHOS.md"
   ],
   "plugin": [
     "opencode-openai-codex-auth@4.1.0",

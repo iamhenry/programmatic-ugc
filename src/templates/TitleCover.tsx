@@ -1,5 +1,8 @@
 import { AbsoluteFill } from "remotion";
 import React from "react";
+import { loadFont } from "@remotion/google-fonts/AlbertSans";
+
+const { fontFamily } = loadFont();
 
 export type TitleCoverProps = {
   headline: string;
@@ -37,8 +40,8 @@ export const TitleCover: React.FC<TitleCoverProps> = ({
         <h1
           style={{
             width: "100%",
-            fontFamily: "Helvetica, Arial, sans-serif",
-            fontSize: 96,
+            fontFamily,
+            fontSize: 130,
             fontWeight: 800,
             lineHeight: "140px",
             margin: 0,
@@ -52,7 +55,7 @@ export const TitleCover: React.FC<TitleCoverProps> = ({
         <p
           style={{
             width: "100%",
-            fontFamily: "Helvetica, Arial, sans-serif",
+            fontFamily,
             fontSize: 48,
             fontWeight: 400,
             lineHeight: 1.4,

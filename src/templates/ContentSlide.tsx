@@ -1,5 +1,8 @@
 import React from "react";
 import { AbsoluteFill } from "remotion";
+import { loadFont } from "@remotion/google-fonts/AlbertSans";
+
+const { fontFamily } = loadFont();
 
 export type ContentSlideProps = {
   title: string;
@@ -50,8 +53,8 @@ export const ContentSlide: React.FC<ContentSlideProps> = ({
               width: "100%",
               margin: 0,
               color: "#404040",
-              fontFamily: "Helvetica, Arial, sans-serif",
-              fontSize: 96,
+              fontFamily,
+              fontSize: 130,
               fontWeight: 800,
               lineHeight: "140px",
             }}
@@ -65,7 +68,7 @@ export const ContentSlide: React.FC<ContentSlideProps> = ({
               margin: 0,
               paddingLeft: 60,
               color: "#737373",
-              fontFamily: "Helvetica, Arial, sans-serif",
+              fontFamily,
               fontSize: 48,
               fontWeight: 400,
               lineHeight: 1.4,
@@ -83,23 +86,14 @@ export const ContentSlide: React.FC<ContentSlideProps> = ({
         <div
           style={{
             position: "absolute",
-            left: 872.6,
-            top: 1145,
-            width: 80,
-            height: 0,
-            borderTop: `8px solid ${BRAND_GREEN}`,
+            right: 80,
+            bottom: 125,
+            fontSize: 48,
+            color: BRAND_GREEN,
           }}
-        />
-        <div
-          style={{
-            position: "absolute",
-            left: 938.4,
-            top: 1133,
-            width: 0,
-            height: 24,
-            borderLeft: `8px solid ${BRAND_GREEN}`,
-          }}
-        />
+        >
+          →
+        </div>
       </div>
     </AbsoluteFill>
   );

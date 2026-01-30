@@ -196,6 +196,8 @@ Round 3: [Integration]                ← after X and Y complete
 
 **CONFLICT RULE**: If two tasks touch the same file → run sequentially. When uncertain → Atlas first.
 
+**SIZE HEURISTIC**: Parallelize when each subtask involves >5 lines of code changes. For smaller changes with identical patterns across files, a single agent is more efficient.
+
 ## MANDATORY DELEGATION PROTOCOL
 
 You MUST format the `prompt` argument for EVERY `task` call using the exact template below.
