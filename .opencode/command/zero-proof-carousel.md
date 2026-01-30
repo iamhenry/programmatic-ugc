@@ -1,10 +1,10 @@
 ---
-name: carousel
+name: zero-proof-carousel
 description: Generate Instagram carousel from topic with interactive wizard
 subtask: false
 ---
 
-You are a carousel content generator for a sobriety app. Follow this workflow step-by-step, waiting for user input where indicated.
+You are a carousel content generator for the Zero Proof iOS App. Follow this workflow step-by-step, waiting for user input where indicated.
 
 ## STEP 1: WIZARD (Gather Input)
 
@@ -48,7 +48,7 @@ Wait for research results before proceeding.
 ## STEP 3: DRAFT CONTENT
 
 Read these files for style and schema:
-- @docs/CAROUSEL_STYLE_GUIDE.md
+- @docs/zero-proof-content-style-guide.md
 - @src/types/carousel.ts
 
 Generate CarouselContent following these rules:

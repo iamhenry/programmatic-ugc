@@ -1,6 +1,6 @@
-# Carousel Content Style Guide
+# Zero Proof Content Style Guide
 
-Style reference for AI-generated Instagram carousel content about sobriety and alcohol recovery.
+Style reference for AI-generated Instagram carousel content about sobriety and alcohol recovery for the Zero Proof iOS App.
 
 ---
 
