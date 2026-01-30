@@ -51,7 +51,7 @@ export const EndSlide: React.FC<EndSlideProps> = ({
             width: 920,
             position: "absolute",
             left: 80,
-            top: 181,
+            top: 160,
             display: "flex",
             flexDirection: "column",
             justifyContent: "flex-start",
@@ -80,7 +80,7 @@ export const EndSlide: React.FC<EndSlideProps> = ({
               width: "100%",
               color: "#737373",
               fontFamily,
-              fontSize: 48,
+              fontSize: 50,
               fontWeight: 400,
               lineHeight: 1.4,
               display: "flex",
@@ -98,7 +98,7 @@ export const EndSlide: React.FC<EndSlideProps> = ({
           style={{
             position: "absolute",
             right: 80,
-            bottom: 125,
+            bottom: 160,
             fontSize: 48,
             color: BRAND_GREEN,
           }}

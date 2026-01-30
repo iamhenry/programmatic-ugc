@@ -67,15 +67,15 @@ Generate CarouselContent following these rules:
 | Highlight word | 5 | 15 |
 | Subtitle | 40 | 80 |
 | Content title | 20 | 45 |
-| Bullet item | 30 | 70 |
-| Bullets per slide | 3 | 4 |
+| Bullet item | - | 10 words |
+| Bullets per slide | 3 | 3 |
 | CTA save line | 40 | 80 |
 | CTA share line | 40 | 80 |
 | CTA closer | 30 | 60 |
 | CTA highlight phrase | 10 | 30 |
 
 ### Bullet Format
-Start with noun/verb → cause/effect structure. Never start with "You will..."
+Start with noun/verb phrase, use natural connectors (so, which, as, making). Max 10 words. Never start with "You will..."
 
 ---
 
@@ -186,4 +186,4 @@ Display in this exact format:
 - Validate ALL character limits before presenting draft
 - Use timeline progression (Problem → Early → Mid → Long-term) OR cause/effect progression
 - Headline must end with the highlight word
-- All bullets must use noun/verb → effect format
+- All bullets must use noun/verb format with natural connectors (max 10 words)

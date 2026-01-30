@@ -1,0 +1,48 @@
+{
+  "topic": "sleep-recovery",
+  "cover": {
+    "headline": "What happens to your sleep when you quit",
+    "highlightWord": "alcohol?",
+    "subtitle": "The science of how your brain relearns to rest—week by week"
+  },
+  "slides": [
+    {
+      "title": "How Alcohol Disrupts Sleep",
+      "items": [
+        "Alcohol suppresses REM sleep, skipping restorative dream cycles",
+        "GABA gets overstimulated, creating sedation without real rest",
+        "Sleep fragments late at night, making 3am wake-ups routine"
+      ]
+    },
+    {
+      "title": "Early Recovery: Days 1-14",
+      "items": [
+        "REM rebounds with vivid dreams as your brain catches up",
+        "Melatonin rhythms restore, returning natural sleep signals by week 2",
+        "Night wakings peak days 3-5, then gradually decline"
+      ]
+    },
+    {
+      "title": "Mid Recovery: Weeks 2-8",
+      "items": [
+        "Cortisol normalizes, so stress hormones stop spiking at night",
+        "Deep sleep increases, improving physical restoration each night",
+        "Sleep efficiency climbs with more time asleep, less awake"
+      ]
+    },
+    {
+      "title": "Long-Term: Months 2+",
+      "items": [
+        "REM timing normalizes and dreams return to healthy patterns",
+        "Sleep architecture heals with full light, deep, and REM cycles",
+        "Morning alertness improves as waking rested becomes normal"
+      ]
+    }
+  ],
+  "end": {
+    "saveLine": "Save this if you're struggling to sleep without alcohol",
+    "shareLine": "Share with someone who thinks they need a drink to rest",
+    "closer": "Your brain remembers how to sleep—give it time",
+    "highlightPhrase": "sleep without alcohol"
+  }
+}

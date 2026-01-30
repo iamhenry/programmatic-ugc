@@ -40,7 +40,7 @@ export const ContentSlide: React.FC<ContentSlideProps> = ({
             width: 920,
             position: "absolute",
             left: 80,
-            top: 181,
+            top: 160,
             display: "flex",
             flexDirection: "column",
             justifyContent: "flex-start",
@@ -69,7 +69,7 @@ export const ContentSlide: React.FC<ContentSlideProps> = ({
               paddingLeft: 60,
               color: "#737373",
               fontFamily,
-              fontSize: 48,
+              fontSize: 50,
               fontWeight: 400,
               lineHeight: 1.4,
               listStyleType: "disc",
@@ -87,7 +87,7 @@ export const ContentSlide: React.FC<ContentSlideProps> = ({
           style={{
             position: "absolute",
             right: 80,
-            bottom: 125,
+            bottom: 160,
             fontSize: 48,
             color: BRAND_GREEN,
           }}

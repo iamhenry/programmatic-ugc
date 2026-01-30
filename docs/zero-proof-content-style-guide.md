@@ -96,18 +96,18 @@ Choose ONE progression per carousel:
 
 ### Bullet Style
 
-**Structure:** `[Noun/Verb phrase] → [concrete outcome]`
+**Structure:** [Noun/Verb phrase] + natural connector + [concrete outcome]
 
 | Good | Bad |
 |------|-----|
-| "Cortisol spikes → racing thoughts at 3am" | "You will feel anxious at night" |
-| "REM sleep returns → vivid dreams increase" | "Your dreams might become more vivid" |
-| "Gut lining heals → nutrient absorption improves" | "Your gut gets healthier over time" |
+| "Cortisol spikes, causing racing thoughts at 3am" | "You will feel anxious at night" |
+| "REM sleep returns, so vivid dreams increase" | "Your dreams might become more vivid" |
+| "Gut lining heals, improving nutrient absorption" | "Your gut gets healthier over time" |
 
 **Rules:**
 - Start with noun or verb (not "You will...")
 - Include physiological mechanism when possible
-- Cause → effect structure
+- Use natural connectors (so, which, as, causing, making)
 - 10-15 words per bullet
 - 3-4 bullets per slide
 
@@ -239,7 +239,7 @@ VOICE: Direct, empathetic, science-informed, accessible
 POV: Second person (you/your)
 FRAMING: Positive (healing/benefits, not shame)
 JARGON: Explain any medical terms in parentheses
-BULLETS: Start with noun/verb, cause→effect, 10-15 words
+BULLETS: Start with noun/verb, natural connectors, max 10 words
 LIMITS: [reference table above]
 ```
 

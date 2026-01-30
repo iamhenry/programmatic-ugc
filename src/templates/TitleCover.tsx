@@ -25,7 +25,7 @@ export const TitleCover: React.FC<TitleCoverProps> = ({
         flexDirection: "column",
         justifyContent: "flex-start",
         alignItems: "flex-end",
-        padding: "193px 80px 0 80px",
+        padding: "160px 80px 0 80px",
       }}
     >
       <div
@@ -56,7 +56,7 @@ export const TitleCover: React.FC<TitleCoverProps> = ({
           style={{
             width: "100%",
             fontFamily,
-            fontSize: 48,
+            fontSize: 50,
             fontWeight: 400,
             lineHeight: 1.4,
             margin: 0,
@@ -66,7 +66,7 @@ export const TitleCover: React.FC<TitleCoverProps> = ({
           {subtitle}
         </p>
 
-        <div style={{ fontSize: 48, color: BRAND_GREEN }}>→</div>
+        <div style={{ position: "absolute", right: 80, bottom: 160, fontSize: 48, color: BRAND_GREEN }}>→</div>
       </div>
     </AbsoluteFill>
   );
