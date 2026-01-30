@@ -34,11 +34,11 @@ Focus on:
 - Cause → effect relationships
 
 Return structured findings as:
-1. Key mechanisms (3-4 points)
-2. Timeline of changes (early/mid/long-term)
+1. Key mechanisms (3-4 points) with source citations
+2. Timeline of changes (early/mid/long-term) with source citations
 3. Primary benefits users will experience
 
-Keep findings factual and cite physiological processes.
+Format each finding as: [Claim] — Source: [Publication/URL]
 ```
 
 Wait for research results before proceeding.
@@ -108,6 +108,17 @@ Display in this exact format:
 **Share:** [shareLine]
 **Closer:** [closer]
 **Highlight phrase:** [highlightPhrase]
+
+---
+
+### Evidence Citations
+
+| Slide | Claim | Source |
+|-------|-------|--------|
+| 2 | [specific claim from bullet] | [Source name/URL] |
+| 2 | [specific claim from bullet] | [Source name/URL] |
+| 3 | [specific claim from bullet] | [Source name/URL] |
+| ... | ... | ... |
 
 ---
 
