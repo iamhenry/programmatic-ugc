@@ -1,0 +1,40 @@
+{
+  "topic": "Small Wins That Compound in Sobriety",
+  "cover": {
+    "headline": "How small wins stack up in",
+    "highlightWord": "sobriety",
+    "subtitle": "The science of daily choices that build on each other over time"
+  },
+  "slides": [
+    {
+      "title": "The Problem With Drinking",
+      "items": [
+        "Each drink disrupts sleep, so fatigue clouds the next day",
+        "Stress hormones spike, making anxiety feel harder to shake",
+        "Recovery debt accumulates, which compounds with every binge"
+      ]
+    },
+    {
+      "title": "Early Wins (Weeks 1-4)",
+      "items": [
+        "REM sleep returns, allowing your brain to consolidate memories",
+        "GABA receptors recalibrate, so baseline anxiety starts dropping",
+        "Liver enzymes normalize, improving energy and mental clarity"
+      ]
+    },
+    {
+      "title": "Long-Term Momentum (Months 2+)",
+      "items": [
+        "Each sober day prevents kindling, protecting future recovery",
+        "Dopamine sensitivity restores, making everyday joys feel stronger",
+        "Saved money and better sleep compound into clearer decisions"
+      ]
+    }
+  ],
+  "end": {
+    "saveLine": "Save this if you're building momentum one day at a time",
+    "shareLine": "Share with someone who doubts that small steps matter",
+    "closer": "Small wins aren't small—they're the whole game",
+    "highlightPhrase": "building momentum"
+  }
+}
