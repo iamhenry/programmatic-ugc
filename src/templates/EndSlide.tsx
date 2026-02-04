@@ -8,33 +8,31 @@ export type EndSlideProps = {
   saveLine: string;
   shareLine: string;
   closer: string;
-  highlightPhrase: string;
 };
 
 const BRAND_GREEN = "#16a34a";
 
 /**
- * Wraps highlightPhrase in green span if found within text.
- * Returns original text if phrase not found.
+ * Parses [bracketed] text and renders brackets content in green.
  */
-const highlightText = (text: string, phrase: string): React.ReactNode => {
-  const idx = text.indexOf(phrase);
-  if (idx === -1) return text;
-
-  return (
-    <>
-      {text.slice(0, idx)}
-      <span style={{ color: BRAND_GREEN }}>{phrase}</span>
-      {text.slice(idx + phrase.length)}
-    </>
-  );
+const parseBracketedText = (text: string): React.ReactNode => {
+  const parts = text.split(/(\[[^\]]+\])/g);
+  return parts.map((part, i) => {
+    if (part.startsWith("[") && part.endsWith("]")) {
+      return (
+        <span key={i} style={{ color: BRAND_GREEN }}>
+          {part.slice(1, -1)}
+        </span>
+      );
+    }
+    return part;
+  });
 };
 
 export const EndSlide: React.FC<EndSlideProps> = ({
   saveLine,
   shareLine,
   closer,
-  highlightPhrase,
 }) => {
   return (
     <AbsoluteFill style={{ backgroundColor: "#fafafa" }}>
@@ -88,9 +86,9 @@ export const EndSlide: React.FC<EndSlideProps> = ({
               gap: 28,
             }}
           >
-            <p style={{ margin: 0 }}>{highlightText(saveLine, highlightPhrase)}</p>
-            <p style={{ margin: 0 }}>{shareLine}</p>
-            <p style={{ margin: 0 }}>{closer}</p>
+            <p style={{ margin: 0 }}>{parseBracketedText(saveLine)}</p>
+            <p style={{ margin: 0 }}>{parseBracketedText(shareLine)}</p>
+            <p style={{ margin: 0 }}>{parseBracketedText(closer)}</p>
           </div>
         </div>
 

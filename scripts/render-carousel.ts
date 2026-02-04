@@ -38,7 +38,6 @@ function buildSlideConfigs(content: CarouselContent): SlideConfig[] {
     compositionId: "TitleCover",
     inputProps: {
       headline: content.cover.headline,
-      highlightWord: content.cover.highlightWord,
       subtitle: content.cover.subtitle,
     } satisfies TitleCoverProps,
     outputName: "slide-1.png",
@@ -64,7 +63,6 @@ function buildSlideConfigs(content: CarouselContent): SlideConfig[] {
       saveLine: content.end.saveLine,
       shareLine: content.end.shareLine,
       closer: content.end.closer,
-      highlightPhrase: content.end.highlightPhrase,
     } satisfies EndSlideProps,
     outputName: `slide-${endSlideNumber}.png`,
   });

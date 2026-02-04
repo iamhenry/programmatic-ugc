@@ -63,16 +63,14 @@ Generate CarouselContent following these rules:
 
 | Element | Min | Max |
 |---------|-----|-----|
-| Cover headline | 30 | 65 |
-| Highlight word | 5 | 15 |
+| Cover headline (with [brackets]) | 30 | 65 |
 | Subtitle | 40 | 80 |
 | Content title | 20 | 45 |
 | Bullet item | - | 10 words |
 | Bullets per slide | 3 | 3 |
-| CTA save line | 40 | 80 |
-| CTA share line | 40 | 80 |
-| CTA closer | 30 | 60 |
-| CTA highlight phrase | 10 | 30 |
+| CTA save line (with [brackets]) | 40 | 80 |
+| CTA share line (with [brackets]) | 40 | 80 |
+| CTA closer (with [brackets]) | 30 | 60 |
 
 ### Bullet Format
 Start with noun/verb phrase, use natural connectors (so, which, as, making). Max 10 words. Never start with "You will..."
@@ -87,8 +85,7 @@ Display in this exact format:
 ## Carousel Draft: [topic]
 
 ### Slide 1: Cover
-**Headline:** [headline text]
-**Highlight:** [highlight word]
+**Headline:** [headline with [bracketed] emphasis]
 **Subtitle:** [subtitle text]
 
 ---
@@ -104,10 +101,9 @@ Display in this exact format:
 ---
 
 ### Slide N: CTA
-**Save:** [saveLine]
-**Share:** [shareLine]
-**Closer:** [closer]
-**Highlight phrase:** [highlightPhrase]
+**Save:** [saveLine with [bracketed] emphasis]
+**Share:** [shareLine with [bracketed] emphasis]
+**Closer:** [closer with [bracketed] emphasis]
 
 ---
 
@@ -149,22 +145,20 @@ Display in this exact format:
    ```json
    {
      "topic": "...",
-     "cover": {
-       "headline": "...",
-       "highlightWord": "...",
-       "subtitle": "..."
-     },
+"cover": {
+        "headline": "... [highlighted word] ...",
+        "subtitle": "..."
+      },
      "slides": [
        { "title": "...", "items": ["...", "...", "..."] },
        { "title": "...", "items": ["...", "...", "..."] },
        { "title": "...", "items": ["...", "...", "..."] }
      ],
-     "end": {
-       "saveLine": "...",
-       "shareLine": "...",
-       "closer": "...",
-       "highlightPhrase": "..."
-     }
+"end": {
+        "saveLine": "Save this if you're [key phrase]...",
+        "shareLine": "Share with someone who [key phrase]...",
+        "closer": "Your [emphasis] statement here"
+      }
    }
    ```
 
@@ -185,5 +179,6 @@ Display in this exact format:
 - DO NOT commit any changes
 - Validate ALL character limits before presenting draft
 - Use timeline progression (Problem → Early → Mid → Long-term) OR cause/effect progression
-- Headline must end with the highlight word
+- Use [brackets] around word(s) to highlight in green—works in headline, saveLine, shareLine, and closer
+- The highlighted word must represent the carousel's key message or answer—not a secondary element
 - All bullets must use noun/verb format with natural connectors (max 10 words)

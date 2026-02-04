@@ -5,16 +5,30 @@ import { loadFont } from "@remotion/google-fonts/AlbertSans";
 const { fontFamily } = loadFont();
 
 export type TitleCoverProps = {
+  /** Headline with [bracketed] word(s) to highlight in green */
   headline: string;
-  highlightWord: string;
   subtitle: string;
 };
 
 const BRAND_GREEN = "#16a34a";
 
+/** Parses headline and renders [bracketed] text in green */
+const renderHeadline = (headline: string) => {
+  const parts = headline.split(/(\[[^\]]+\])/g);
+  return parts.map((part, i) => {
+    if (part.startsWith("[") && part.endsWith("]")) {
+      return (
+        <span key={i} style={{ color: BRAND_GREEN }}>
+          {part.slice(1, -1)}
+        </span>
+      );
+    }
+    return part;
+  });
+};
+
 export const TitleCover: React.FC<TitleCoverProps> = ({
   headline,
-  highlightWord,
   subtitle,
 }) => {
   return (
@@ -48,8 +62,7 @@ export const TitleCover: React.FC<TitleCoverProps> = ({
             color: "#404040",
           }}
         >
-          {headline}{" "}
-          <span style={{ color: BRAND_GREEN }}>{highlightWord}</span>
+          {renderHeadline(headline)}
         </h1>
 
         <p

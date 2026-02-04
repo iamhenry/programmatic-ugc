@@ -1,0 +1,38 @@
+{
+  "topic": "What heals first - body or mind",
+  "cover": {
+    "headline": "What heals first when you quit alcohol—your mind or your [body]?",
+    "subtitle": "The science of why physical recovery leads the way to mental clarity"
+  },
+  "slides": [
+    {
+      "title": "Your body resets first (days 1-7)",
+      "items": [
+        "Heart rate and blood pressure stabilize within 72 hours",
+        "Liver enzymes begin normalizing, reducing inflammation markers",
+        "Sleep architecture disrupts before it repairs itself"
+      ]
+    },
+    {
+      "title": "Your brain chemistry follows (weeks 2-4)",
+      "items": [
+        "GABA receptors rebuild, restoring natural calm signals",
+        "Dopamine sensitivity returns, so everyday joys feel real again",
+        "Cortisol levels drop, easing that constant background anxiety"
+      ]
+    },
+    {
+      "title": "Mental clarity arrives last (months 1-3)",
+      "items": [
+        "Prefrontal cortex function improves, sharpening focus and decisions",
+        "Memory consolidation strengthens as REM sleep deepens",
+        "Emotional regulation stabilizes, making moods more predictable"
+      ]
+    }
+  ],
+  "end": {
+    "saveLine": "Save this if you're wondering when [things will feel easier]",
+    "shareLine": "Share with someone who needs to know [the timeline]",
+    "closer": "Your [body] leads the way—your mind will follow"
+  }
+}

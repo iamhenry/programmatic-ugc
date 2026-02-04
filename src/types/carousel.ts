@@ -2,10 +2,8 @@
  * Cover slide - the hook (Slide 1)
  */
 export type CoverSlideContent = {
-  /** Main headline without highlight word. 30-65 chars */
+  /** Headline with [bracketed] word(s) highlighted in green. 30-65 chars */
   headline: string;
-  /** Last word/phrase highlighted in green. 5-15 chars */
-  highlightWord: string;
   /** Explains why this matters. 40-80 chars */
   subtitle: string;
 };
@@ -24,14 +22,12 @@ export type ContentSlideContent = {
  * End slide - CTA (Slide 5)
  */
 export type EndSlideContent = {
-  /** "Save this if you are..." 40-80 chars */
+  /** "Save this if you are..." with [bracketed] highlight. 40-80 chars */
   saveLine: string;
-  /** "Share with someone who..." 40-80 chars */
+  /** "Share with someone who..." with optional [bracketed] highlight. 40-80 chars */
   shareLine: string;
-  /** Empowering closing statement. 30-60 chars */
+  /** Empowering closing statement with optional [bracketed] highlight. 30-60 chars */
   closer: string;
-  /** Topic phrase highlighted in green within saveLine. 10-30 chars */
-  highlightPhrase: string;
 };
 
 /**

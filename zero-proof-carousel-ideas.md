@@ -29,7 +29,7 @@ Your content reduces uncertainty.
 - [ ] Why do I miss alcohol even though it hurt me
 
 ### Timeline and expectations
-- [ ] What should improve first body or mind
+- [x] What should improve first body or mind
 - [ ] Why did week one feel easier than week three
 - [ ] What does one month sober really mean
 - [ ] When does sobriety stop feeling like work
