@@ -8,7 +8,7 @@
     "_ai/docs/ETHOS.md"
   ],
   "plugin": [
-    "@tarquinen/opencode-dcp@latest", // (https://github.com/Tarquinen/opencode-dynamic-context-pruning)
+    "@tarquinen/opencode-dcp@beta", // (https://github.com/Tarquinen/opencode-dynamic-context-pruning)
   ],
   "tools": {
     "ask": false, // this is for shuvcode version which has ask tool integrated
