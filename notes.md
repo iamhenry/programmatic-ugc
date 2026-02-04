@@ -1,0 +1,4 @@
+- [x] Create reusable title cover template component
+- [x] Create reusable content slide template component (2nd slide)
+- [x] Register both compositions in `src/Root.tsx`
+- [x] Verify: `npm run dev` + `npm run build`
