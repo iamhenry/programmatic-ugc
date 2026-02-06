@@ -80,7 +80,7 @@ Mental model: health tracking, recovery, habits. Not addiction shock.
 - [ ] What a normal sober day starts to feel like
 - [ ] Tracking progress without counting drinks
 - [ ] Why boredom is common and temporary
-- [ ] Stress response resetting after alcohol
+- [x] Stress response resetting after alcohol
 - [x] Small wins that compound in sobriety
 - [ ] Why relapse urges come in waves
 - [ ] Building streaks without pressure

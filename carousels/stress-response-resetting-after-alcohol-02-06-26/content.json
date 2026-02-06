@@ -1,0 +1,38 @@
+{
+  "topic": "Stress response resetting after alcohol",
+  "cover": {
+    "headline": "How your stress response starts to [reset] after alcohol",
+    "subtitle": "What changes from week one to month six in your body"
+  },
+  "slides": [
+    {
+      "title": "Week 1: Alarm signals run hot",
+      "items": [
+        "Cortisol (stress hormone) swings, so anxiety spikes faster",
+        "Glutamate surges, making sleep light and fragmented",
+        "Heart-rate reactivity rises, which can feel like panic"
+      ]
+    },
+    {
+      "title": "Weeks 2-6: Stress system recalibrates",
+      "items": [
+        "Adrenal signaling stays muted, so resilience rebuilds slowly",
+        "GABA tone returns, making your baseline feel steadier",
+        "Sleep pressure normalizes, which lowers next-day irritability"
+      ]
+    },
+    {
+      "title": "Months 2-6: Response gets more flexible",
+      "items": [
+        "Cortisol awakening response strengthens, so mornings feel less wired",
+        "Prefrontal control improves, which dampens threat overreactions",
+        "Craving spikes ease, making stress-triggered slips less likely"
+      ]
+    }
+  ],
+  "end": {
+    "saveLine": "Save this if you're waiting for your stress system to [reset]",
+    "shareLine": "Share with someone who thinks calm cannot return after [alcohol]",
+    "closer": "Your nervous system remembers [reset], one day at a time"
+  }
+}
