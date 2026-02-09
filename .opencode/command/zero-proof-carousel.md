@@ -132,8 +132,8 @@ Display in this exact format:
 
 ## STEP 6: EXPORT
 
-1. Generate folder name: `{simplified-topic}-{MM-DD-YY}`
-   - Example: `sleep-recovery-01-29-26`
+1. Generate folder name: `{MM-DD-YY}-{simplified-topic}`
+   - Example: `01-29-26-sleep-recovery`
    - Use lowercase, hyphens, no spaces
 
 2. Create directory:
