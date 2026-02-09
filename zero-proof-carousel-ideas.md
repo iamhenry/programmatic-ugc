@@ -82,7 +82,7 @@ Mental model: health tracking, recovery, habits. Not addiction shock.
 - [ ] Why boredom is common and temporary
 - [x] Stress response resetting after alcohol
 - [x] Small wins that compound in sobriety
-- [ ] Why relapse urges come in waves
+- [x] Why relapse urges come in waves
 - [ ] Building streaks without pressure
 - [ ] How sleep quality improves over months
 - [ ] Hormone balance after quitting alcohol

@@ -1,0 +1,38 @@
+{
+  "topic": "Why relapse urges come in waves during sobriety",
+  "cover": {
+    "headline": "Why relapse urges hit in [waves] during sobriety",
+    "subtitle": "Your stress and reward circuits rebalance over months, not days."
+  },
+  "slides": [
+    {
+      "title": "Why urges feel sudden in early sobriety",
+      "items": [
+        "Stress hormones rise, so cravings spike under pressure.",
+        "Cue memories fire, making places feel dangerously familiar.",
+        "Low dopamine tone leaves reward circuits underpowered between waves."
+      ]
+    },
+    {
+      "title": "What changes by weeks 2 to 12",
+      "items": [
+        "GABA signaling steadies, which lowers background anxiety surges.",
+        "Sleep pressure normalizes, so nighttime urges lose momentum.",
+        "Cortisol spikes soften, making stress-triggered cravings shorter."
+      ]
+    },
+    {
+      "title": "Why waves weaken with longer abstinence",
+      "items": [
+        "Dopamine transport recovers, so baseline motivation slowly returns.",
+        "Prefrontal control strengthens, which improves pause-before-react decisions.",
+        "Conditioned cues persist, but wave intensity drops with practice."
+      ]
+    }
+  ],
+  "end": {
+    "saveLine": "Save this if you're scared that craving [waves] mean failure.",
+    "shareLine": "Share with someone who thinks urge [waves] mean they're broken.",
+    "closer": "Each [wave] passed is your brain rewiring."
+  }
+}
