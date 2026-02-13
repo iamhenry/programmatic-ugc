@@ -7,11 +7,14 @@ description: Git commit workflow and message format. Use when making commits, as
 
 ## WORKFLOW
 
-1. Run command to see all modified files `git status --porcelain`
-2. Run brief diff command to understand changes `git diff`
-3. Commit ALL (skip staging) using commit format below
+1. Run `git status --porcelain` to see all changes (modified and untracked)
+2. Run `git diff` to understand the changes
+3. Stage and commit ALL changes in one command:
+   - For ALL files (including untracked): `git add -A && git commit -m "..."`
+   - git commit -a only stages tracked/modified files, use git add -A for full coverage
 4. Push changes
-5. Then stop
+5. Verify clean: `git status --porcelain` should return empty
+6. Then stop
 
 ## Format
 ```

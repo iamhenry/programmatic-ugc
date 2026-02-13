@@ -5,7 +5,6 @@ subtask: false
 model: opencode/kimi-k2.5-free
 ---
 
-1. Run command to see all modified files `git status --porcelain`
-2. Commit ALL (skip staging)
-3. Push changes
-4. Then stop
+Execute the git-commits skill workflow:
+
+@.claude/skills/git-commits/SKILL.md
