@@ -74,7 +74,7 @@ Mental model: health tracking, recovery, habits. Not addiction shock.
 - [ ] Why anxiety spikes then fades in sobriety
 - [ ] Gut health changes after stopping drinking
 - [ ] Energy levels week by week without alcohol
-- [ ] Mood swings in early sobriety and why they happen
+- [x] Mood swings in early sobriety and why they happen
 - [ ] How routines stabilize the nervous system
 - [ ] Cravings as body signals not failure
 - [ ] What a normal sober day starts to feel like
