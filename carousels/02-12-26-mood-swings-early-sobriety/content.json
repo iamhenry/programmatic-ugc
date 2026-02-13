@@ -1,0 +1,30 @@
+{
+  "topic": "mood-swings-early-sobriety",
+  "cover": {
+    "headline": "What happens to your mood when you quit [alcohol]",
+    "subtitle": "Why the first few weeks feel like an emotional rollercoaster"
+  },
+  "slides": [
+    {
+      "title": "What alcohol did to your mood chemistry",
+      "items": [
+        "Alcohol suppresses glutamate daily",
+        "GABA receptors become less sensitive",
+        "Your brain adapts to constant sedation"
+      ]
+    },
+    {
+      "title": "Why moods swing early on",
+      "items": [
+        "GABA drops, removing your natural calm",
+        "Glutamate surges, triggering anxiety",
+        "Stress hormones spike, causing irritability"
+      ]
+    }
+  ],
+  "end": {
+    "saveLine": "Save this if your emotions feel [unpredictable] in sobriety",
+    "shareLine": "Share with someone who thinks mood swings mean they're failing",
+    "closer": "Your brain is healing, give it [time]"
+  }
+}
