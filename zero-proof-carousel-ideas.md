@@ -85,7 +85,7 @@ Mental model: health tracking, recovery, habits. Not addiction shock.
 - [x] Why relapse urges come in waves
 - [ ] Building streaks without pressure
 - [ ] How sleep quality improves over months
-- [ ] Hormone balance after quitting alcohol
+- [x] Hormone balance after quitting alcohol
 - [ ] Emotional regulation returning over time
 - [ ] What healing feels like when it is quiet
 - [ ] Using data to reduce self blame
