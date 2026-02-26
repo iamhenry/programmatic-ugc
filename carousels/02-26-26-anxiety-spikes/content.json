@@ -1,0 +1,30 @@
+{
+  "topic": "Why anxiety spikes then fades in sobriety",
+  "cover": {
+    "headline": "Why anxiety spikes then fades in [sobriety]",
+    "subtitle": "The science of how your brain recalibrates after quitting alcohol"
+  },
+  "slides": [
+    {
+      "title": "Why anxiety surges first (0-72 hours)",
+      "items": [
+        "Alcohol artificially boosts GABA, your brain's calm signal",
+        "Your brain compensates by overproducing glutamate (excitement)",
+        "When alcohol stops, glutamate overwhelms the system, causing racing thoughts"
+      ]
+    },
+    {
+      "title": "How anxiety fades by week 2",
+      "items": [
+        "GABA receptors slowly upregulate, restoring natural calm",
+        "Glutamate levels normalize, reducing mental noise",
+        "Your HPA axis recalibrates, lowering cortisol production"
+      ]
+    }
+  ],
+  "end": {
+    "saveLine": "Save this if you're white-knuckling through sober [anxiety]",
+    "shareLine": "Share with someone who drinks to quiet their [mind]",
+    "closer": "The calm you're chasing is already inside you"
+  }
+}

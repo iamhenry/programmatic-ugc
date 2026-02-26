@@ -71,7 +71,7 @@ Mental model: health tracking, recovery, habits. Not addiction shock.
 
 - [ ] Early sobriety symptoms explained
 - [x] What happens to sleep after quitting alcohol
-- [ ] Why anxiety spikes then fades in sobriety
+- [x] Why anxiety spikes then fades in sobriety
 - [ ] Gut health changes after stopping drinking
 - [ ] Energy levels week by week without alcohol
 - [x] Mood swings in early sobriety and why they happen
