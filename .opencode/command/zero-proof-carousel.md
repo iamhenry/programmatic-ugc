@@ -53,6 +53,10 @@ Read these files for style and schema:
 
 Generate CarouselContent following these rules:
 
+**Important:** Research returns detailed findings. Condense each into ONE sentence:
+- Max 10 words per bullet
+- Example: "GABA-glutamate imbalance creates hyperexcitable state" → "GABA drops while glutamate surges, causing racing thoughts"
+
 ### Voice
 - Direct, empathetic, science-informed, accessible
 - POV: Second person (you/your)
@@ -176,7 +180,7 @@ Display in this exact format:
 
 ## CONSTRAINTS
 
-- DO NOT commit any changes
+- DO NOT commit unless explicitly asked
 - Validate ALL character limits before presenting draft
 - Use timeline progression (Problem → Early → Mid → Long-term) OR cause/effect progression
 - Use [brackets] around word(s) to highlight in green—works in headline, saveLine, shareLine, and closer
