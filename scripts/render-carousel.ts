@@ -63,6 +63,7 @@ function buildSlideConfigs(content: CarouselContent): SlideConfig[] {
       saveLine: content.end.saveLine,
       shareLine: content.end.shareLine,
       closer: content.end.closer,
+      ...(content.end.appLine ? { appLine: content.end.appLine } : {}),
     } satisfies EndSlideProps,
     outputName: `slide-${endSlideNumber}.png`,
   });

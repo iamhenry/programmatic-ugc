@@ -161,7 +161,8 @@ Display in this exact format:
 "end": {
         "saveLine": "Save this if you're [key phrase]...",
         "shareLine": "Share with someone who [key phrase]...",
-        "closer": "Your [emphasis] statement here"
+        "closer": "Your [emphasis] statement here",
+        "appLine": "Track your progress – get [Zero Proof]"
       }
    }
    ```

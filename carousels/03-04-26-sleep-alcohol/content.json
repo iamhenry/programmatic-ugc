@@ -1,0 +1,41 @@
+{
+  "topic": "sleep-alcohol",
+  "cover": {
+    "headline": "Why alcohol destroys your deep sleep",
+    "highlightWord": "sleep",
+    "subtitle": "The science behind why you wake at 3am—and when that changes"
+  },
+  "slides": [
+    {
+      "title": "What alcohol does at night",
+      "items": [
+        "REM sleep suppressed, so your brain skips its restore cycle",
+        "Cortisol spikes early, pulling you into lighter sleep stages",
+        "Adenosine (your natural sleep drive) scrambled, causing fragmented rest"
+      ]
+    },
+    {
+      "title": "The first two weeks sober",
+      "items": [
+        "Sleep fragments at first, as your brain recalibrates without alcohol",
+        "Vivid dreams surge by day 7, marking REM returning at full force",
+        "By day 14, you're falling asleep faster without the sedative effect"
+      ]
+    },
+    {
+      "title": "By month one and beyond",
+      "items": [
+        "Deep sleep (N3) lengthens, so your body finally repairs overnight",
+        "Cortisol normalizes, meaning fewer 3am wake-ups and racing thoughts",
+        "Memory consolidation improves as REM cycles complete uninterrupted"
+      ]
+    }
+  ],
+  "end": {
+    "saveLine": "Save this if you're struggling to sleep without alcohol",
+    "shareLine": "Share with someone who drinks to wind down at night",
+    "closer": "Your brain still knows how to sleep",
+    "appLine": "Track your progress – get [Zero Proof]",
+    "highlightPhrase": "deep sleep"
+  }
+}

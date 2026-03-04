@@ -28,6 +28,8 @@ export type EndSlideContent = {
   shareLine: string;
   /** Empowering closing statement with optional [bracketed] highlight. 30-60 chars */
   closer: string;
+  /** Optional app download CTA line with optional [bracketed] highlight */
+  appLine?: string;
 };
 
 /**

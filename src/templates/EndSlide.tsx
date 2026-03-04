@@ -8,6 +8,7 @@ export type EndSlideProps = {
   saveLine: string;
   shareLine: string;
   closer: string;
+  appLine?: string;
 };
 
 const BRAND_GREEN = "#16a34a";
@@ -33,6 +34,7 @@ export const EndSlide: React.FC<EndSlideProps> = ({
   saveLine,
   shareLine,
   closer,
+  appLine,
 }) => {
   return (
     <AbsoluteFill style={{ backgroundColor: "#fafafa" }}>
@@ -89,6 +91,9 @@ export const EndSlide: React.FC<EndSlideProps> = ({
             <p style={{ margin: 0 }}>{parseBracketedText(saveLine)}</p>
             <p style={{ margin: 0 }}>{parseBracketedText(shareLine)}</p>
             <p style={{ margin: 0 }}>{parseBracketedText(closer)}</p>
+            {appLine && (
+              <p style={{ margin: 0, marginTop: 28 }}>{parseBracketedText(appLine)}</p>
+            )}
           </div>
         </div>
 
